@@ -12,7 +12,9 @@
  * treated like "Singleton".
  */
 object HelloWorld { 
-   def main (args: Array[String]): Unit = { 
-      println("Hello Evebody! :D")
-   }
+ 
+  def main (args: Array[String]): Unit = { 
+    println("Hello Evebody! :D")
+  }
+  
 } 
