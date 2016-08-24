@@ -9,21 +9,19 @@
  * Afterwards, I realized that in Scala I could 
  * solve this issue easily.
  * 
- * NOTTE: Furthermore, it is possible to make combinations
+ * NOTE: Furthermore, it is possible to make combinations
  * using list.combination(num-elements).
  * 
  */
 
 object Permutation {
-
+  
   def main (args: Array[String]){
-
     println("Permutation using brutal force")
     permutation_brutal_force();
 
     println("Permutation using Scala methods"); 
     permutation_using_scala_power();
-    
   }
 
   def permutation_brutal_force (){	
@@ -41,5 +39,5 @@ object Permutation {
       println;
     }		
   }
-
+  
 }
