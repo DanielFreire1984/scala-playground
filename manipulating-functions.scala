@@ -19,9 +19,9 @@ object ManipulatingFunctions {
   
   def scheduler(task: () => Unit){
     while(true){
-	    task();
-	    Thread.sleep(3000);
-	  }
+      task();
+      Thread.sleep(3000);
+    }
   }
   
   def print_default_message(){
