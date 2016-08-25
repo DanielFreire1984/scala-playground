@@ -8,8 +8,8 @@
  * functions like objects.
  *
  * In this example, we have a scheduler that
- * receives a task, which is responsible to run it
- * every 3 seconds.
+ * receives a task and which is responsible to 
+ * run it every 3 seconds.
  */
 object ManipulatingFunctions {
 
