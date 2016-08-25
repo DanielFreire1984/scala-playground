@@ -12,7 +12,6 @@
  * NOTE: Furthermore, it is possible to make combinations
  * using list.combination(num-elements).
  */
-
 object Permutation {
   
   def main (args: Array[String]){
