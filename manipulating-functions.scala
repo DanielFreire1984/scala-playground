@@ -10,6 +10,11 @@
  * In this example, we have a scheduler that
  * receives a task and which is responsible to 
  * run it every 3 seconds.
+ * 
+ * NOTE: the scheduler receive as a argument
+ * any task (function) which takes no arguments. 
+ * In special for scala, 'Unit' is like 'void'
+ * for C and C++.
  */
 object ManipulatingFunctions {
 
