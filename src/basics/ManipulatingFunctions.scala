@@ -1,4 +1,6 @@
-/** 
+package basics
+
+/**
  * This file shows a function manipulation.
  * @author: Hussama Ismail
  * @date: 08/25/2016

@@ -1,4 +1,6 @@
-/** 
+package basics
+
+/**
  * This file represents some loops examples in scala.
  * @author: Hussama Ismail
  * @date: 08/23/2016

@@ -1,4 +1,6 @@
-/** 
+package basics
+
+/**
  * This file represents my hello world in Scala.
  * @author: Hussama Ismail
  * @date: 08/22/2016

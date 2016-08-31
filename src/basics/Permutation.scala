@@ -1,4 +1,6 @@
-/** 
+package basics
+
+/**
  * This file shows a permutation example using Scala.
  * @author: Hussama Ismail
  * @date: 08/24/2016
